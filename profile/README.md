@@ -2,15 +2,18 @@
 
 This GitHub organisation supports the delivery of the University of Melbourne subject:
 
-**BINF90018 — Skills for Data-Intensive Research**  
-Master of Bioinformatics  
-School of BioSciences / Melbourne Bioinformatics
+[BINF90018 — Skills for Data-Intensive Research](https://handbook.unimelb.edu.au/2026/subjects/binf90018)
+Melbourne Bioinformatics
+School of Biomedical Sciences
+Faculty of Medicine, Dentistry, and Health Sciences
 
 The organisation hosts repositories used for **teaching, tutorials, and assignments** associated with the subject.
 
 ---
 
 ## About the subject
+
+Please see the Handbook entry for official information: [https://handbook.unimelb.edu.au/2026/subjects/binf90018](https://handbook.unimelb.edu.au/2026/subjects/binf90018)
 
 Skills for Data-Intensive Research is a **4-week intensive subject** focused on the practical infrastructure required for modern computational research.
 
@@ -53,8 +56,7 @@ You normally **do not need to navigate this organisation directly**.
 
 This organisation is maintained by the teaching team for the subject:
 
-School of BioSciences  
-University of Melbourne
+- Vinícius W. Salazar ([vinisalazar](https://github.com/vinisalazar)) 
 
 Issues related to the subject should be raised through the appropriate channels in the LMS or during tutorials.
 
